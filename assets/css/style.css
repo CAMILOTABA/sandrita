@@ -678,13 +678,13 @@ h2 {
   .twit-box p {
     color: #666666; }
   .twit-box a {
-    background-color: #03a9f4;
-    border-color: #03a9f4;
+    background-color: #f48003;
+    border-color: #f46303;
     width: 120px;
     padding: 5px 0;
     border-radius: 40px; }
     .twit-box a:hover, .twit-box a:visited {
-      background-color: #0286c2; }
+      background-color: #fa6616; }
   .twit-box::before {
     content: "";
     position: absolute;
