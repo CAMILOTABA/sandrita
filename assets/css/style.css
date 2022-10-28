@@ -50,7 +50,7 @@ h2 {
     padding: 15px 25px;
     color: #fff; }
   .maine-menu .navbar-nav li.active a, .maine-menu .navbar-nav li:hover a, .maine-menu .navbar-nav li:visited a {
-    color: #e90e65; }
+    color: #ffbe07; }
   .maine-menu .bar1, .maine-menu .bar2, .maine-menu .bar3 {
     width: 25px;
     height: 2px;
@@ -183,7 +183,7 @@ h2 {
       border: none;
       margin-left: 0; }
     .contact-pop .content a {
-      background-color: #e90e65;
+      background-color: #ffbe07;
       width: 158px;
       border-radius: 40px;
       color: #fefefe;
@@ -681,12 +681,12 @@ h2 {
     color: #666666; }
   .twit-box a {
     background-color: #f48003;
-    border-color: #f46303;
+    border-color: #ffbe07;
     width: 120px;
     padding: 5px 0;
     border-radius: 40px; }
     .twit-box a:hover, .twit-box a:visited {
-      background-color: #fa6616; }
+      background-color: #ffbe07; }
   .twit-box::before {
     content: "";
     position: absolute;
