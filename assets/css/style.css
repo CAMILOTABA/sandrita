@@ -386,7 +386,7 @@ h2 {
   width: 100%; }
 
 .fh5co-recent-work {
-  background: #262626;
+  background: #000000;
   padding: 100px 0; }
   @media (max-width: 767px) {
     .fh5co-recent-work {
@@ -718,7 +718,7 @@ h2 {
       background: #fff; }
 
 footer {
-  background: #413d3f; }
+  background: #000000; }
   footer iframe {
     height: 100%;
     width: 100%; }
