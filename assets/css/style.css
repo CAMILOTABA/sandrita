@@ -674,13 +674,13 @@ h2 {
   padding: 60px 30px 30px 30px; }
   .twit-box .media-body h5 {
     font-size: 22px;
-    color: #03a9f4; }
+    color: #efb810; }
   .twit-box .media-body p {
     color: #a1a0a1; }
   .twit-box p {
     color: #666666; }
   .twit-box a {
-    background-color: #f48003;
+    background-color: #efb810;
     border-color: #ffbe07;
     width: 120px;
     padding: 5px 0;
@@ -731,14 +731,14 @@ footer {
     max-width: 380px;
     margin: 117px auto; }
     footer .contact-form h3 {
-      color: #e90e65;
+      color: #efb810;
       font-size: 20px;
       text-align: center;
       margin-bottom: 20px; }
     footer .contact-form .form-control {
       margin-bottom: 20px;
       border: none;
-      background-color: #ebd8df;
+      background-color: #ebebe8;
       border-radius: 25px;
       font-size: 15px;
       padding: 25px 30px; }
@@ -749,7 +749,7 @@ footer {
       resize: none;
       padding-top: 20px !important; }
     footer .contact-form button {
-      background: #e90e65;
+      background: #e90;
       width: 140px;
       padding: 13px 0;
       font-size: 15px;
@@ -760,7 +760,7 @@ footer {
       display: block;
       cursor: pointer; }
       footer .contact-form button:hover, footer .contact-form button:visited {
-        background: #b90b50; }
+        background: #ebebe8; }
   footer .copy {
     background: #282526;
     text-align: center; }
@@ -771,7 +771,7 @@ footer {
       transition: 0.3s ease;
       text-decoration: none; }
       footer .copy a:hover {
-        color: #e90e65; }
+        color: #ebebe8; }
   @media (max-width: 1199px) {
     footer .contact-form {
       margin: 50px auto; } }
@@ -804,7 +804,7 @@ footer {
       padding: 40px 0; } }
 
 .blog-content-inner {
-  background-color: #f2d5d7;
+  background-color: #ebebe8;
   background-color: #e90e65;
   padding: 70px;
   border-radius: 15px; }
