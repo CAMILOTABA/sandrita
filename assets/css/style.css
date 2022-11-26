@@ -48,9 +48,9 @@ h2 {
     font-size: 16px;
     text-transform: uppercase;
     padding: 15px 25px;
-    color: #fff; }
+    color: rgb(255, 255, 255); }
   .maine-menu .navbar-nav li.active a, .maine-menu .navbar-nav li:hover a, .maine-menu .navbar-nav li:visited a {
-    color: #ffbe07; }
+    color: #000000; }
   .maine-menu .bar1, .maine-menu .bar2, .maine-menu .bar3 {
     width: 25px;
     height: 2px;
@@ -183,7 +183,7 @@ h2 {
       border: none;
       margin-left: 0; }
     .contact-pop .content a {
-      background-color: #ffbe07;
+      background-color: #000000;
       width: 158px;
       border-radius: 40px;
       color: #fefefe;
@@ -415,7 +415,7 @@ h2 {
       margin: 0 2px; }
       .recent .owl-carousel .owl-nav .owl-prev:hover, .recent .owl-carousel .owl-nav .owl-next:hover {
         background: #fff;
-        color: #e90e65; }
+        color: #ffffff; }
       .recent .owl-carousel .owl-nav .owl-prev span, .recent .owl-carousel .owl-nav .owl-next span {
         position: relative;
         display: block;
@@ -436,7 +436,7 @@ h2 {
       margin-bottom: 5px; }
     .recent .card p {
       font-size: 14px;
-      color: #e90e65; }
+      color: #ffffff; }
     .recent .card.active, .recent .card:hover {
       transform: scale(1.05, 1.1);
       -webkit-transform: scale(1.05, 1.1);
@@ -444,12 +444,12 @@ h2 {
       -moz-transform: scale(1.05, 1.1);
       box-shadow: 0px 20px 32px 0px rgba(0, 0, 0, 0.25); }
       .recent .card.active .card-img-overlay, .recent .card:hover .card-img-overlay {
-        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95)); }
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(241, 241, 241, 0.95));
+        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.95));
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.95));
+        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.95)); }
       .recent .card.active p, .recent .card:hover p {
-        color: #e587ac; }
+        color: #ffffff; }
   .recent .card-img-overlay {
     border-radius: 15px;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.85));
@@ -544,10 +544,10 @@ h2 {
       transform: none;
       box-shadow: none; }
       .activity .card.active .card-img-overlay, .activity .card:hover .card-img-overlay {
-        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95)); }
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0.95));
+        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3));
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 233, 233, 0.121));
+        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 233, 233, 0.121)); }
       .activity .card.active p, .activity .card:hover p {
         color: #e587ac; }
     .activity .card h5 {
@@ -559,7 +559,7 @@ h2 {
     .activity .card-img-overlay a {
       display: none;
       font-size: 20px;
-      color: #fff;
+      color: rgb(255, 255, 255);
       text-decoration: none;
       margin-top: 10px; }
       .activity .card-img-overlay a img {
@@ -731,7 +731,7 @@ footer {
     max-width: 380px;
     margin: 117px auto; }
     footer .contact-form h3 {
-      color: #efb810;
+      color: #000000;
       font-size: 20px;
       text-align: center;
       margin-bottom: 20px; }
@@ -749,18 +749,19 @@ footer {
       resize: none;
       padding-top: 20px !important; }
     footer .contact-form button {
-      background: #e90;
+      background: rgb(0, 0, 0);
       width: 140px;
       padding: 13px 0;
       font-size: 15px;
-      color: #fff;
+      color: rgb(255, 255, 255);
       border: none;
       border-radius: 40px;
       margin: 0 auto;
       display: block;
       cursor: pointer; }
       footer .contact-form button:hover, footer .contact-form button:visited {
-        background: #ebebe8; }
+        background: #c6c6c6; 
+        color: rgb(0, 0, 0);}
   footer .copy {
     background: #282526;
     text-align: center; }
